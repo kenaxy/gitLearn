@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Creating a new branch is quick.
 test
 Creating a new branch is quick AND simple.
+
+check work place
